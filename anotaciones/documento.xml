@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+     <folder>imagenes</folder>
+     <filename>Foto1.png</filename>
+     <path>\\138.100.58.208\seabass\lubinas\imagenes\Foto1.png</path>
+     <size>
+             <width>3837</width>
+             <height>1915</height>
+     </size>
+     <object>
+             <name>lubina</name>
+             <bndbox>
+                  <xmin>1913</xmin>
+                  <ymin>1235</ymin>
+                  <xmax>2118</xmax>
+                  <ymax>1295</ymax>
+             </bndbox>
+     </object>
+</annotation>
